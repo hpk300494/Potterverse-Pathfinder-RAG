@@ -61,3 +61,14 @@ Harry Potter PDF Documents
             |
             v
  Answer with Source References
+
+## Project Workflow
+
+1. Load PDF documents
+2. Split into text chunks
+3. Generate embeddings
+4. Store embeddings in FAISS
+5. Retrieve relevant passages
+6. Send retrieved context to LLM
+7. Generate grounded response
+8. Display source references

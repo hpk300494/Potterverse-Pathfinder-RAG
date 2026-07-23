@@ -1,0 +1,15 @@
+langchain
+transformers
+sentence-transformers
+InstructorEmbedding
+faiss-cpu
+pypdf
+tiktoken
+accelerate
+bitsandbytes
+einops
+torch
+huggingface-hub
+numpy
+pandas
+gradio

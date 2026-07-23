@@ -1,4 +1,15 @@
 # Potterverse Pathfinder RAG
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+
+![LangChain](https://img.shields.io/badge/LangChain-RAG-green)
+
+![FAISS](https://img.shields.io/badge/Vector%20DB-FAISS-orange)
+
+![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-yellow)
+
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
+![Status](https://img.shields.io/badge/Project-Completed-success)
 
 A multi-document Retrieval-Augmented Generation system that answers questions from the Harry Potter book series using LangChain, Hugging Face language models, Sentence-BERT embeddings, and FAISS vector search.
 
